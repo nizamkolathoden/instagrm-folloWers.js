@@ -6,7 +6,7 @@ clearInterval(followInterveal)
 return;
 }
 const buttons = document.querySelectorAll('button')
-const nextButton = buttons[1]
+const nextButton = buttons[i]
 nextButton.click()
 i++
 },500)
