@@ -3,4 +3,4 @@
 # Installation 
 1. open chrome/firefox
 2. Use inspect Element
-3. Paste the code on console on browser watch the magic of bot :fire: :fire:
+3. Paste the code on console in browser watch the magic of bot :fire: :fire:
